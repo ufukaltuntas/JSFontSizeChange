@@ -14,3 +14,5 @@ Javascript all font size change
 <p>Check the fonts in css drafts as responsive.</p>
 <p>Change the 3rd row in the all.js file to add or remove values.</p>
 <p>this.attributes = ["h1", "h2", "h3", "h4", "h5", "h6", "span", "p", "li", "a", "button", "address", "figcaption"];</p>
+
+https://jsfiddle.net/ufuxio/tq69fbvm/6/
