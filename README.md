@@ -2,7 +2,7 @@
 Javascript all font size change
 
 <p align="center">
-  <a href="https://www.javascript.com">
+  <a href="https://jsfiddle.net/ufuxio/tq69fbvm/6/">
     <img
       alt="Javascript"
       src="https://cdn-images-1.medium.com/max/785/1*H-25KB7EbSHjv70HXrdl6w.png"
